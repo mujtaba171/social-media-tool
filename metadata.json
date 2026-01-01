@@ -1,0 +1,7 @@
+{
+  "name": "LeadFlow AI Architect",
+  "description": "A comprehensive lead automation dashboard and workflow architect tool for social media lead generation and follow-up management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
